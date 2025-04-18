@@ -99,7 +99,10 @@ The analysis revealed the following insights:
 - Top Car Makes: Toyota, Volvo, and Volkswagen were the leading car makes in the Norwegian market. Diesel passenger cars significantly contributed to the sales performance of these top makes.
 - New vs. Used Cars: New car sales showed stronger growth than used car sales, with the used-to-new car ratio remaining below 0.5 in most years, suggesting a preference for new cars. However, used car sales gained prominence from 2012 onwards, indicating a shift towards cost-saving options.
 - Peak Sales Years: Years around 2007, 2014, and 2016 saw higher-than-average sales contributions from the top 20 models, potentially due to model launches, promotions, or changes in consumer preferences.
-
+![](450.PNG)
+![](507.PNG)
+![](719.PNG)
+![](515.PNG)
 6. Challenges and Solutions
 - Challenge: Handling encoding issues with the dataset.
   Solution: Used the 'ISO-8859-1' encoding in pd.read_csv() to correctly read Norwegian characters.
